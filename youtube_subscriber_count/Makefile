@@ -40,8 +40,6 @@ clean-test:
 	rm -vrf htmlcov/
 	rm -vrf ./tests/.cache
 	rm -vrf .pytest_cache
-	rm -f ./tests/product.ipk
-	rm -f ./tests/product_update.*
 
 .PHONY: distclean
 distclean:
