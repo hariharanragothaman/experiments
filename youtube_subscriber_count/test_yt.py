@@ -6,7 +6,6 @@ data = {
         "behindwoods": "behindwoodstv"
 }
 
-your_key = 'AIzaSyBpHk5xwwRH1HQALYiL4l1QcKz4h1E3nD8'
 channel_id = 'UCzh5hQc_O3r3xjh9sXrM7-A'
 yt_command = "https://www.googleapis.com/youtube/v3/channels?part=statistics&id="+ channel_id + "&key=" + your_key
 
